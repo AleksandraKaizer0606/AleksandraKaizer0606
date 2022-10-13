@@ -1,4 +1,4 @@
-## Тестировщик ПО.
+## Тестировщик ПО
 
 [Ссылка на мое резюме](https://drive.google.com/file/d/1HytB7QGd6KhOoK1U_WsLCshPiU0fDjOX/view?usp=sharing)
 
