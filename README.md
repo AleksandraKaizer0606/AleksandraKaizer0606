@@ -1,6 +1,6 @@
 ## Тестировщик ПО
 
-[Ссылка на мое резюме](https://drive.google.com/file/d/1HytB7QGd6KhOoK1U_WsLCshPiU0fDjOX/view?usp=sharing)
+[Ссылка на мое резюме](https://drive.google.com/file/d/1DmRfTh9aKG1A8mwxeb9xoc6MA9yaJ2eo/view?usp=sharing)
 
 ### Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
